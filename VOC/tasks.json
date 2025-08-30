@@ -1,0 +1,59 @@
+{
+  "tasks": [
+    {
+      "title": "python",
+      "description": "",
+      "category": "general",
+      "completed": false,
+      "created_date": "2025-08-16 19:32:40",
+      "task_id": 1,
+      "completed_date": null
+    },
+    {
+      "title": "java",
+      "description": "learn java",
+      "category": "learning",
+      "completed": false,
+      "created_date": "2025-08-16 19:36:12",
+      "task_id": 2,
+      "completed_date": null
+    },
+    {
+      "title": "python",
+      "description": "programming",
+      "category": "learning",
+      "completed": false,
+      "created_date": "2025-08-24 15:37:04",
+      "task_id": 3,
+      "completed_date": null
+    },
+    {
+      "title": "java",
+      "description": "java features",
+      "category": "work",
+      "completed": false,
+      "created_date": "2025-08-24 15:40:00",
+      "task_id": 4,
+      "completed_date": null
+    },
+    {
+      "title": "python",
+      "description": "work",
+      "category": "python",
+      "completed": false,
+      "created_date": "2025-08-30 06:56:28",
+      "task_id": 5,
+      "completed_date": null
+    },
+    {
+      "title": "java",
+      "description": "learning",
+      "category": "work",
+      "completed": false,
+      "created_date": "2025-08-30 06:56:58",
+      "task_id": 6,
+      "completed_date": null
+    }
+  ],
+  "next_id": 7
+}
